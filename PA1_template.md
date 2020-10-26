@@ -1,4 +1,4 @@
-# Reproducible Research Course Project 1
+# Reproducible Research Peer-reviewed Course Project 1
 
 Reproducible Research Peer-reviewed Course Project 1.
 
